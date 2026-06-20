@@ -60,7 +60,7 @@ D. whose
 | คน + ข้างหลัง เป็น ประโยค ใช้ `whom` | The man `whom` I met yesterday is my teacher. | `whom` แทน The man และเป็นกรรมของกริยา met |
 | สัตว์หรือสิ่งของ ใช้ `which` หรือ `that` | The book `which` is on the table is mine. | `which` แทน The book ซึ่งเป็นสิ่งของ |
 | สถานที่ ใช้ `where` | This is the school `where` I studied. | `where` แทน the school ซึ่งเป็นสถานที่ |
-| แสดงความเป็นเจ้าของ ใช้ `whose` | The student `whose` bag was stolen reported it. | `whose` แสดงว่า bag เป็นของ The student |
+| หลังช่องว่างมีคำนามทันที เช่น ___ car, ___ fees, ___ house มักตอบ whose | The student `whose` bag was stolen reported it. | `whose` แสดงว่า bag เป็นของ The student |
 
 สูตรจำเร็ว:
 
