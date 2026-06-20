@@ -56,8 +56,8 @@ D. whose
 
 | หลัก | ตัวอย่างประโยค | เหตุผล |
 |---|---|---|
-| คน + เป็นประธานของประโยคย่อย ใช้ `who` | The woman `who` lives next door is a nurse. | `who` แทน The woman และเป็นผู้ทำกริยา lives |
-| คน + เป็นกรรมของประโยคย่อย ใช้ `whom` | The man `whom` I met yesterday is my teacher. | `whom` แทน The man และเป็นกรรมของกริยา met |
+| คน + ข้างหลังเป็น กริยา ใช้ `who` | The woman `who` lives next door is a nurse. | `who` แทน The woman และเป็นผู้ทำกริยา lives |
+| คน + ข้างหลัง เป็น ประโยค ใช้ `whom` | The man `whom` I met yesterday is my teacher. | `whom` แทน The man และเป็นกรรมของกริยา met |
 | สัตว์หรือสิ่งของ ใช้ `which` หรือ `that` | The book `which` is on the table is mine. | `which` แทน The book ซึ่งเป็นสิ่งของ |
 | สถานที่ ใช้ `where` | This is the school `where` I studied. | `where` แทน the school ซึ่งเป็นสถานที่ |
 | แสดงความเป็นเจ้าของ ใช้ `whose` | The student `whose` bag was stolen reported it. | `whose` แสดงว่า bag เป็นของ The student |
