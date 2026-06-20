@@ -937,6 +937,178 @@ D. most large
 
 ---
 
+## เสริม: PRONOUN (สรรพนาม)
+
+### คืออะไร
+- คำที่ใช้แทนคำนาม เพื่อให้ไม่ต้องพูดคำนามซ้ำ ๆ
+
+### ประเภทของ Pronoun
+
+| ประเภท | ตัวอย่าง | ลักษณะการใช้ |
+|---|---|---|
+| **Personal (บุคคล)** | I, you, he, she, it, we, they | ใช้แทนคน, สัตว์, สิ่งของ |
+| **Possessive (เจ้าของ)** | mine, yours, his, hers, its, ours, theirs | บอกว่าเป็นของใคร |
+| **Objective (กรรม)** | me, you, him, her, it, us, them | เป็นกรรมของกริยา |
+| **Reflexive (สะท้อนกลับ)** | myself, yourself, himself, herself, itself, ourselves, themselves | ทำให้ตัวเองหรือเน้นความ |
+| **Demonstrative (ชี้)** | this, that, these, those | ชี้สิ่งของหรือคน |
+| **Interrogative (คำถาม)** | who, whom, whose, what, which | ใช้ในประโยคคำถาม |
+| **Relative (ความสัมพันธ์)** | who, whom, whose, which, that | ขยายคำนามที่อยู่ก่อน |
+| **Indefinite (ไม่แน่นอน)** | someone, anyone, everyone, anybody, something, anything | บอกสิ่งที่ไม่เฉพาะเจาะจง |
+
+### ตัวอย่างและข้อสังเกต
+
+**Personal Pronouns:**
+
+```
+Subject form:    I, you, he, she, it, we, they
+Object form:     me, you, him, her, it, us, them
+```
+
+- ตำแหน่ง: `I love you.` (I = subject, you = object)
+- หลัง verb: ใช้ object form: `She asked me.`, `They saw us.`
+- หลัง preposition: ใช้ object form: `with me`, `for him`, `between you and me`
+
+**Possessive Pronouns:**
+
+```
+Adjective form:  my, your, his, her, its, our, their
+Pronoun form:    mine, yours, his, hers, its, ours, theirs
+```
+
+- `my book` (adjective) vs `That book is mine.` (pronoun)
+- หลัง noun ใช้ adjective form: `my car`, `her phone`
+- เมื่ออยู่คนเดียว ใช้ pronoun form: `This is mine.`, `Whose pen? This is his.`
+
+**Reflexive Pronouns:**
+
+- ใช้เมื่อกรรมเป็นประธานคนเดียวกัน: `I hurt myself.`
+- เน้นอำนาจ: `She herself did it.` (= she and no one else)
+- หมายเหตุ: **ไม่ใช้ reflexive เมื่ออ่างอิงไปคนอื่น**: ❌ `He gave himself a book to me.` (ผิด)
+
+**Demonstrative Pronouns:**
+
+```
+Singular: this, that
+Plural:   these, those
+```
+
+- `This is good.` vs `That is bad.`
+- `These are mine.` vs `Those are hers.`
+- ข้อสังเกต: `this/these` = ใกล้, `that/those` = ไกล
+
+**Indefinite Pronouns:**
+
+- `someone`, `anyone`, `everyone`, `nobody` (คน)
+- `something`, `anything`, `everything`, `nothing` (สิ่งของ)
+- ใช้ verb form เอกพจน์: `Someone is waiting.`, `Everyone needs help.`
+
+### ข้อสังเกตสำคัญเกี่ยวกับ Pronoun
+
+1. **Subject vs Object Form:**
+   - ❌ `Him and I went to school.` (ผิด)
+   - ✅ `He and I went to school.` (ถูก)
+   - ❌ `Between you and I...` (ผิด)
+   - ✅ `Between you and me...` (ถูก - หลัง preposition ใช้ object)
+
+2. **Pronoun ต้องสอดคล้องกับคำนาม:**
+   - `The team is very strong. **They** play well.` (they = team พหูพจน์)
+   - `Each student must do **his/their** homework.` (singular: his/their)
+
+3. **Pronoun ที่ต้องรู้:**
+   - `it` = สิ่งของ หรือสัตว์ (ที่ไม่รู้เพศ)
+   - `one` = formal indefinite (ไม่บ่อยในข้อสอบ)
+   - `who` = subject form, `whom` = object form (เป็น relative pronoun)
+   - `whose` = possessive (ของใคร)
+
+---
+
+## เสริม: GERUND (กริยานาม) - V.ing ที่ทำหน้าที่เป็นคำนาม
+
+### คืออะไร
+- รูป V.ing ของกริยา แต่ทำหน้าที่เป็นคำนาม เช่น ประธาน กรรม วัตถุของบุพบท
+
+### ตัวอย่างและหมวดหมู่
+
+| ตำแหน่ง | ตัวอย่าง | อธิบาย |
+|---|---|---|
+| **ตำแหน่งประธาน** | `Swimming is fun.` | Gerund = ประธาน + verb เอกพจน์ |
+| **ตำแหน่งกรรม** | `I love cooking.` | เป็นกรรมของกริยา `love` |
+| **หลัง preposition** | `I'm good at dancing.` | ต้องใช้ gerund ไม่ใช่ infinitive |
+| **ในประโยคหลายสมาชิก** | `Singing and dancing are my hobbies.` | Gerund สองตัว = plural verb |
+
+### เทคนิคแยก Gerund กับ Present Continuous
+
+| Gerund (คำนาม) | Present Continuous (กริยา) |
+|---|---|
+| `Reading is important.` (read = ประธาน) | `He is reading.` (is = verb to be) |
+| `I enjoy running.` (ตามหลังกริยา) | `They are running.` (are = verb to be) |
+| `Before going...` (หลัง preposition) | ❌ ไม่ใช้ present continuous หลัง preposition |
+
+### การใช้ Gerund หลังกริยาบางตัว
+
+**กลุ่มตามด้วย Gerund:**
+
+| กริยา | ตัวอย่าง |
+|---|---|
+| enjoy | `I enjoy reading.` |
+| avoid | `He avoids smoking.` |
+| finish | `She finished studying.` |
+| keep | `They keep playing.` |
+| mind | `Do you mind waiting?` |
+| practice | `I practice speaking English.` |
+| suggest | `I suggest going to the park.` |
+| give up | `He gave up drinking.` |
+| consider | `I'm considering changing my job.` |
+| admit | `He admitted lying.` |
+| deny | `She denied stealing.` |
+
+**กลุ่มตามด้วย Infinitive (to V.1):**
+
+| กริยา | ตัวอย่าง |
+|---|---|
+| want | `I want to go.` |
+| need | `She needs to sleep.` |
+| decide | `They decided to leave.` |
+| plan | `I'm planning to visit.` |
+| hope | `He hopes to succeed.` |
+| promise | `I promise to help.` |
+| agree | `She agreed to help.` |
+| refuse | `He refused to go.` |
+
+**กลุ่มที่ใช้ได้ทั้ง Gerund และ Infinitive (แต่มีความหมายต่างกัน):**
+
+| กริยา | Gerund | Infinitive |
+|---|---|---|
+| like | `I like reading.` (เป็นประจำ) | `I'd like to read this.` (ครั้งนี้) |
+| prefer | `I prefer walking.` (ชื่นชอบโดยทั่วไป) | `I prefer to walk.` (เวลานี้) |
+| stop | `He stopped smoking.` (เลิกทำเลย) | `He stopped to smoke.` (หยุดแล้วไปสูบ) |
+| remember | `I remember seeing that.` (จำได้เจอมาแล้ว) | `I remembered to call.` (จำได้เวลาที่ต้องโทร) |
+
+### ข้อสังเกตสำคัญเกี่ยวกับ Gerund
+
+1. **หลัง Preposition บังคับใช้ Gerund:**
+   - ❌ `interested in to read` (ผิด)
+   - ✅ `interested in reading` (ถูก)
+   - ตัวอย่าง: `before going`, `after eating`, `without thinking`
+
+2. **Gerund เป็นหัวข้อ ต้องใช้ Singular Verb:**
+   - ❌ `Swimming and dancing are fun.` (ผิด - ต้องเอกพจน์)
+   - ✅ `Swimming and dancing is fun.` (ถูก - verb เอกพจน์)
+
+3. **ไม่มี Article หน้า Gerund:**
+   - ❌ `I enjoy the reading.` (ผิด)
+   - ✅ `I enjoy reading.` (ถูก)
+
+4. **Gerund สามารถมี Object ตามหลัง:**
+   - `I enjoy reading books.` (books = object ของ reading)
+   - `She suggested buying a car.` (a car = object ของ buying)
+
+5. **Possessive + Gerund:**
+   - ✅ `I don't mind his leaving early.` (possessive + gerund)
+   - ❌ `I don't mind him leaving early.` (object form - ต่ำกว่า)
+
+---
+
 ## สูตรทำข้อสอบ Grammar ก.พ. แบบเร็ว
 
 เมื่อเจอช่องว่าง ให้ถามตามลำดับนี้:
