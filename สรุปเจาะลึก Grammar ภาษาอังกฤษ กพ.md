@@ -1454,28 +1454,6 @@ few / little:
 
 ---
 
-### Gerunds (V.ing) และ Infinitives (to V.1) — กริยาที่ตามด้วย V.ing เสมอ
-
-อธิบายสั้น ๆ:
-- บางกริยาตามด้วย `V.ing` เสมอ (enjoy, avoid, finish, keep, mind, suggest, consider ฯลฯ)
-- บางกริยาตามด้วย `to + V.1` (want, hope, decide, plan, promise, ask, tell+object to)
-- บางกริยารับได้ทั้ง gerund และ infinitive แต่ความหมายเปลี่ยน (like, stop, remember, forget)
-
-ตัวอย่าง:
-- `She enjoys reading.` (enjoy + V.ing)
-- `He decided to leave.` (decide + to V.1)
-- `I stopped smoking.` vs `I stopped to smoke.` (ความหมายต่างกัน)
-
-จุดสังเกตเมื่อเจอช่องว่าง:
-- มองที่คำก่อนช่องว่าง: ถ้าเป็น `enjoy/avoid/keep/mind` ให้เลือก `V.ing`
-- ถ้าหน้าเป็น `to` และเป็นส่วนของ infinitive ให้เลือก `V.1`
-- หลัง preposition ต้องเป็น `V.ing` (e.g., `interested in ___` → `interested in learning`)
-
-โจทย์บอก tense อะไร:
-- Gerund/Infinitive ไม่ได้บอก tenseโดยตรง แต่ถ้าประโยคต้องการแสดงเวลา ให้ดู main verb/auxiliary ที่มากำหนด tense
-
----
-
 ### สรุปสั้น ๆ (Cheat-sheet)
 - ถ้าหลัง `a/an/the/my` → noun
 - ถ้าหลัง `be` (is/are/was) → adjective หรือ passive
@@ -1484,8 +1462,59 @@ few / little:
 - ถ้าช่องว่างอยู่หลัง `enjoy/avoid/keep/mind` → gerund (V.ing)
 - ถ้าช่องว่างอยู่หลัง `want/decide/hope/plan` → infinitive (to V.1)
 
+การแก้ไขแล้ว: เพิ่มเนื้อหาและตัวอย่างครบตามคำขอ
+
 ---
 
-การแก้ไขแล้ว: เพิ่มเนื้อหาและตัวอย่างครบตามคำขอ
+## วิธีแยกประเภทโจทย์อย่างละเอียด (Signals + ตัดสินใจทีละขั้น)
+
+เมื่อเจอช่องว่างในข้อสอบ ให้ทำตามลำดับการตัดสินใจนี้เพื่อแยกหัวข้อและหาสัญญาณที่ชัดเจนว่าเป็นเรื่องใด แล้วค่อยเลือกคำตอบ
+
+1) ดูรูปตัวเลือกก่อน (scan choices)
+   - ถ้าตัวเลือกเป็นชุดเดียวกัน (in/on/at) → Preposition
+   - ถ้าเป็น who/which/whose/where → Relative Pronouns
+   - ถ้าเป็นรูปกริยาหลายช่อง (V, V.s, V.2, V.ing, V.3) → Tense / Verb form / Passive
+   - ถ้าเป็น to V.1 / V.ing / V.3 → Infinitive vs Gerund / Participle
+   - ถ้าเป็น some/any/much/many/few → Quantifier / Pronoun
+
+2) ดูคำที่อยู่ก่อนช่องว่าง (word before blank)
+   - article / possessive (a/an/the/my/our) → ต้องเป็น noun/noun phrase
+   - to (ไม่ใช่ preposition) → infinitive (to + V.1)
+   - be (is/are/was/were) → adjective, V.ing (continuous) หรือ passive (be + V.3)
+   - auxiliary (has/have/had) → V.3 (perfect)
+
+3) ดูคำที่อยู่หลังช่องว่าง (word after blank) — สัญญาณสำคัญสุดสำหรับ preposition, nouns, verb patterns
+   - ถ้าหลังเป็น noun (a/an/the + noun หรือ noun เดี่ยว) → blank มักเป็น adjective (ก่อน noun) หรือ determiner/quantifier
+   - ถ้าหลังเป็น verb (subject + blank + verb) → blank มักเป็น subject (noun/pronoun) หรือ verb form ที่ต้องผันกับ subject
+   - ถ้าหลังเป็น clause (subject + verb) → ถ้าต้องเชื่อมคำทั้งประโยค ให้มอง conjunction/connector
+
+4) หา keywords/time/place/mood
+   - เวลา: every day, yesterday, now, since, already → Tenses
+   - สถานที่/ยานพาหนะ: in/on/at + clues (car, bus, train, school) → Preposition
+   - จำนวน/ปริมาณ: many/much/few/little/number/amount → Quantifiers
+   - เงื่อนไข/ความน่าจะเป็น: if, unless, would, should → If-Clause / Wish
+
+5) โครงสร้างประโยค (syntactic pattern)
+   - รูป `be + ___` → adjective หรือ passive (ถ้าตัวเลือกมี V.3)
+   - รูป `verb + to ___` หรือ `verb + ___ing` → Verb pattern (จำกริยาที่ตามด้วย to หรือ -ing)
+   - รูป `the + noun + ___` ที่ตามด้วย noun → มักเป็น relative pronoun หรือ preposition ขึ้นกับโครงสร้าง
+
+6) ตัดตัวเลือกที่ผิดโครงสร้าง (eliminate by form)
+   - ตัดรูปคำที่เป็นไปไม่ได้ตามตำแหน่ง (เช่น ตัด adverb ถ้าต้องการ noun)
+   - ตัด tense ที่ไม่สอดคล้องกับ keyword เวลา
+   - ตัด preposition ผิดประเภทเมื่อดูคำหลังช่องว่าง
+
+ตัวอย่างการตัดสินใจทีละขั้น (workflow):
+   - อ่าน choices: เห็น `in / on / at` → สงสัย preposition → ดูคำหลังช่องว่าง: ถ้าเป็น `Monday` → on; ถ้าเป็น `2026` → in; ถ้าเป็น `9 a.m.` → at
+   - อ่าน choices: เห็น `who / which / whose / that` → สงสัย relative → ดูคำนามหน้าช่องว่าง: ถ้าเป็นคน → who/whom; ถ้าตามด้วย noun (___ car) → whose
+   - อ่าน choices: เห็น `walk / walks / walked / is walking` → ดู keyword เวลา: `every day` → walks; `when I called` → were walking
+
+
+
+ข้อแนะนำสุดท้ายในการทำข้อสอบจริง:
+   - อย่าพยายามแปลทั้งประโยคก่อน ให้ทำตาม workflow ข้างต้น (scan choices → ดูหน้า/หลัง blank → หา keyword → ตัดรูปผิด)
+   - ถ้าไม่แน่ใจ ให้เลือกรูปที่เข้ากับโครงสร้างไวยากรณ์ก่อน แล้วใช้ความหมายยืนยัน
+
+
 
 
