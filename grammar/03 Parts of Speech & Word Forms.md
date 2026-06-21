@@ -239,4 +239,56 @@ D. careless
 
 ---
 
-(ตัดเนื้อหาเพิ่มเติมออกเพื่อความย่อ — ไฟล์เต็มสามารถรวมรายละเอียดเสริมได้ตามต้องการ)
+## รูปแบบโจทย์
+
+1. ช่องว่างที่ต้องเลือกรูปคำที่เหมาะสม (noun/verb/adjective/adverb)
+2. มักมีตัวเลือกเป็นคำรากเดียวกันหลายรูป เช่น `care / careful / carefully / careless`
+
+## ตัวเลือก (Choice) มักเป็น
+
+- ชุดคำจากรากเดียวกัน (word family)
+- รูปกริยาใน tense ต่าง ๆ (สำหรับ testing verb form)
+- adjective vs adverb (`-ly` vs base)
+
+## ตัวอย่างโจทย์และคำตอบ
+
+1) She spoke to the customer very ___.  
+   - Choices: polite / politely / politeness / politest  
+   - คำตอบ: `politely` (adverb ขยาย spoke)
+
+2) He is a ___ driver.  
+   - Choices: careful / carefully / care / careless  
+   - คำตอบ: `careful` (adjective ขยาย driver)
+
+3) Politeness is an important ___.  
+   - Choices: quality / qualify / qualifyed / qualifyer  
+   - คำตอบ: `quality` (noun เป็นกรรมของ is)
+
+(แต่ละตัวอย่างมีเหตุผลสั้น ๆ เพื่อใช้ตัดช้อยส์อย่างเร็ว)
+
+## สังเกตสัญญาณรอบช่องว่าง
+
+- หน้าช่องว่าง: `a/an/the/my/this` → ช่องว่างมักต้องเป็น noun/noun phrase; `to` (ไม่ใช่ preposition) → infinitive หรือ verb base
+- หลังช่องว่าง: ถ้าหลังเป็น `noun` → ช่องว่างมักเป็น adjective; ถ้าหลังเป็น `verb` → ช่องว่างอาจเป็น adverb หรือ subject
+- คำช่วย: `be` (is/are/was) หน้า blank → มักตามด้วย adjective หรือ passive; คำลงท้าย `-ly` ในตัวเลือก → ทดสอบ adverb
+
+### สัญญาณเชิงลึก (รวบรวมจากครูแมรี่)
+
+- ถ้าหน้าช่องว่างมี article (`a/an/the`) หรือ possessive (`my/your/his`) → ช่องว่างมักเป็น `noun` หรือ `adjective` (เช่น `a ___ noun` → adjective ก่อน noun)
+- ถ้าช่องว่างอยู่หลังกริยาแท้ (main verb) และตัวเลือกมี `-ly` ให้พิจารณา adverb ก่อน (เช่น `speak ___` → `fluently`)
+- ถ้าช่องว่างอยู่หลัง `be` เช่น `is/are/was` ให้คิด `adjective` เป็นอันดับแรก แต่ถ้าตัวเลือกมี V.3 (past participle) ให้พิจารณา passive เช่น `is interested / is interested in`
+- คำลงท้าย/รูปแบบคำ: มอง suffixs (`-ness`, `-ity`, `-ment`) เพื่อเลือก noun; `-ly` มักเป็น adverb ยกเว้น `friendly`/`lovely` เป็นต้น
+- เทคนิคจากครูแมรี่: "ดูช้อยส์ก่อน แล้วดูหน้าช่องว่าง" — ถ้าช้อยส์เป็นกลุ่มคำเดียวกัน (polite/politely/politeness) ให้ใช้ตำแหน่งในประโยคเป็นตัวตัดสิน
+
+### ตัวอย่างเชิงลึก
+
+1) `She spoke to the customer very ___.`  
+   - ถ้าช้อยส์มี `polite / politely / politeness` → เพราะ `very` ขยาย adverb/adjective แต่หลัง `spoke` เป็น main verb → เลือก `politely`
+
+2) `A ___ driver must be careful.`  
+   - ถ้าช้อยส์มี `careful / carefully / care` → หน้า `driver` เป็น noun → ต้อง adjective `careful`
+
+3) `He seems ___ about the news.`  
+   - ถ้าช้อยส์มี `interesting / interested` → หลัง `seems` ต้อง adjective ที่บอกสภาพของประธาน → ถ้าประธานเป็นคนแล้วรู้สึก → `interested`
+
+ใช้เคล็ดลับคู่กับการสแกนคำ: ดู "หน้าช่องว่าง" → "หลังช่องว่าง" → "suffix/prefix" → ตัดช้อยส์ที่ไม่เข้ารูปก่อน

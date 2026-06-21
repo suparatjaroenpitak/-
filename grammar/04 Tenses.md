@@ -94,3 +94,48 @@ D. have watched
 - ถ้าเจอ `ago` ให้คิด Past Simple ก่อน ไม่ใช่ Present Perfect
 - ถ้าโจทย์ให้ช่องว่างอยู่หลัง `have/has` ให้หา V.3
 - ถ้าโจทย์มี `be + blank` ให้คิด Present Continuous หรือ Passive ที่ต้องรูปบอกเวลา
+
+## รูปแบบโจทย์
+
+1. ช่องว่างให้เติมกริยาในรูป tense ที่เหมาะสม โดยมักมีคำใบ้เรื่องเวลา (every day, yesterday, now, since)
+2. ตัวเลือกมักเป็นรูปกริยาต่าง ๆ ของคำเดียวกัน
+
+## ตัวเลือก (Choice) มักเป็น
+
+- base form / s-form / past / present participle / past participle
+- หรือ `am/is/are + V.ing` vs `has/have + V.3` เพื่อทดสอบการสังเกต auxiliary
+
+## ตัวอย่างโจทย์และคำตอบ
+
+1) He ___ to school every day.  
+  - Choices: walk / walks / walked / is walking  
+  - คำตอบ: `walks` (habit — Present Simple)
+
+2) They ___ TV when I called them.  
+  - Choices: watch / watched / were watching / have watched  
+  - คำตอบ: `were watching` (background action — Past Continuous)
+
+3) She ___ already finished her homework.  
+  - Choices: has / had / is / was  
+  - คำตอบ: `has` (followed by V.3 — Present Perfect indicator `already`)
+
+## สังเกตสัญญาณรอบช่องว่าง (Tenses)
+
+- หน้าช่องว่าง: ถ้ามี `has/have/had` → คาด V.3; ถ้ามี `is/am/are/was/were` → คาด V.ing หรือ passive; ถ้ามี `will` หรือ `is going to` → future
+- หลังช่องว่าง: ถ้ามี time marker เช่น `yesterday/last week/ago` → past; `every day/usually` → present simple; `now/at the moment` → present continuous
+- คำเชื่อม: `when/while/as/because/since` ให้เบาะแสว่าเป็น background action, sequence, หรือ perfect contexts
+
+### สัญญาณเชิงลึก (จากครูแมรี่)
+
+- ดู `keyword เวลา` รอบประโยค: ครูแมรี่เน้นว่าการหาคลูเวลาเป็นกุญแจ — ถ้าเห็น `every day/usually/often` → Present Simple; `now/at the moment/currently` → Present Continuous; `yesterday/ago/last` → Past Simple
+- สังเกต auxiliary หน้า blank: `has/have` → V.3 (Present Perfect); `had` → Past Perfect; `is/are/am` → V.ing หรือ Passive (ดูว่า V.3 มาคู่กับ be หรือไม่)
+- ถ้ามี `when + past simple` หรือ `while` มักต้องใช้ Past Continuous สำหรับ background action (ตัวเลือกจะมี `were watching` เป็นกรณีปกติ)
+- เทคนิคจากครูแมรี่: "มองข้างหลังช่องว่างสำหรับ preposition/time — แต่สำหรับ tense ให้สแกนทั้งประโยคหา time clue" (อย่าแปลคำทั้งประโยคก่อน ให้หา time keyword)
+
+### ตัวอย่างการสังเกตละเอียด
+
+1) ถ้าพบ `already/just/yet/since/for` รอบประโยค → มักชี้ไปที่ Present Perfect (`has/have + V.3`) หรือ Present Perfect Continuous
+2) ถ้าก่อนช่องว่างมี `to be (is/are/was/were)` และตัวเลือกมี `V.ing` vs `V.3` → พิจารณาว่าเป็น continuous หรือ passive: ถ้าประธานเป็นสิ่งของและมี `by` ตามมา → passive
+3) ถ้าช่องว่างอยู่ในคำถามที่มี `did`/`do`/`does` → base form ของ verb เป็นคำตอบ (เช่น `Did he ___?` → `go`)
+
+เคล็ดลับการทำเร็ว: scan choices → หา time keyword → ดู auxiliary หน้า blank → ตัดรูปกริยาที่เป็นไปไม่ได้ → ยืนยันด้วยความหมาย
