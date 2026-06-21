@@ -17,6 +17,24 @@
 **สูตรจำหลัก:**  
 ข้อสอบ Grammar ส่วนใหญ่ไม่ต้องแปลทั้งประโยคก่อน ให้เริ่มจาก **Choice -> Blank Position -> Keyword -> Structure -> Meaning**
 
+### การตัดช้อย (Choice Elimination)
+
+- เริ่มจากดูว่าแต่ละช้อยส์เป็นชนิดคำอะไร เช่น `noun`, `verb`, `adjective`, `adverb`, `preposition`, `pronoun`, `conjunction`.
+- ถ้า blank อยู่หลัง modal (`can`, `should`, `must`, `may`, `will`) ให้ตัดคำที่ไม่ใช่รูป `V.1` ออกก่อน.
+- ถ้า blank อยู่หลัง preposition หรือคำเชื่อม เช่น `to`, `for`, `by`, `with` ให้ตัดช้อยที่ไม่ใช่ object หรือ gerund (ในกรณีที่เป็น verb phrase หลัง preposition).
+- ถ้าช่องว่างอยู่หน้าคำนามหรือ adjective ให้ตัดช้อยที่เป็น verb/adverb ออกไปทันที.
+- ถ้าตัวเลือกเป็นแบบกลุ่มเดียวกัน เช่น `polite / politely / politeness / politer` ให้ตัดจากตำแหน่งก่อน: หลัง verb ทั่วไป = adverb, หลัง noun = adjective, หลัง `be` = adjective.
+- ถ้าหลัง blank เป็น `noun` ตรง ๆ ให้ตัดคำที่ไม่ใช่ adjective, possessive หรือ relative pronoun ที่ทำหน้าที่ขยาย noun.
+- ถ้าช้อยที่เหลือมี 2-3 ข้อ ให้ใช้ความหมายช่วยอีกทีเพื่อเลือกข้อที่เข้ากับบริบทที่สุด.
+
+ตัวอย่างการตัดช้อยเร็ว
+
+| รูปโจทย์ | ตัวเลือก | ตัดก่อน | เหลือ | เหตุผล |
+|---|---|---|---|---|
+| `She ___ careful.` | `careful / carefully / care / cared` | `care / cared` | `careful / carefully` | หลัง `be` ต้องเป็น adjective หรือ adverb |
+| `You should ___ now.` | `to go / going / go / gone` | `to go / going / gone` | `go` | หลัง modal ต้องเป็น base verb |
+| `The man ___ car was stolen` | `who / whom / whose / which` | `who / whom / which` | `whose` | หลัง blank มี noun `car` ต้องเป็นเจ้าของ |
+
 ---
 
 ## วิธีดูสิ่งที่อยู่นอกช่องว่างให้รู้ว่าโจทย์เป็นหัวข้ออะไร
