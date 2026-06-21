@@ -1299,3 +1299,193 @@ Plural:   these, those
 
 **เทคนิค 6 กลุ่มนี้ใช้ได้ทั้ง Grammar, Structure, และ Vocabulary**
 
+---
+
+## เพิ่มเติม: หัวข้อที่ผู้ใช้งานขอ (สรุป + ตัวอย่าง + จุดสังเกต)
+
+ต่อไปนี้เป็นคำอธิบายสรุป ตัวอย่าง และ "จุดสังเกต" ที่จะช่วยให้ตอบช่องว่างในข้อสอบได้เร็วและถูกต้องสำหรับหัวข้อที่ร้องขอ
+
+### Countable & Uncountable Nouns และ Quantifiers (number / amount, few / little)
+
+อธิบายสั้น ๆ:
+- Countable nouns (คำนามที่นับได้): มีรูปเอกพจน์/พหูพจน์, ใช้ a/an, many, few, several, one, two ฯลฯ
+- Uncountable nouns (คำนามนับไม่ได้): ไม่แบ่งเป็นเอก/พหู, ใช้ much, little, a bit of, some, an amount of ฯลฯ
+
+การใช้ `number` vs `amount`:
+- `number of + plural noun` ใช้กับคำนามที่นับได้ (e.g., `a large number of students`)
+- `amount of + uncountable noun` ใช้กับคำนามนับไม่ได้ (e.g., `a large amount of water`)
+
+few / little:
+- `few` / `a few` → นับได้พหูพจน์ (`few` = น้อยจนแทบไม่มี, `a few` = มีบ้าง)
+- `little` / `a little` → นับไม่ได้ (`little` = น้อยจนแทบไม่มี, `a little` = มีบ้าง)
+
+ตัวอย่าง:
+- Countable: `There are few chairs in the room.` → เก้าอี้มีน้อยจนเป็นปัญหา
+- Uncountable: `There is little water left.` → น้ำเหลือน้อย
+- Number vs Amount: `The number of applicants has increased.` / `The amount of information is overwhelming.`
+
+จุดสังเกตเมื่อเจอช่องว่าง:
+- ดูคำนามที่ตามหลัง: ถ้าเป็น plural หรือมี `s` มักเป็น countable → ใช้ `many/few/number`
+- ถ้าคำนามไม่เติม `s` และเป็นสิ่งที่วัดไม่ได้ เช่น `information, advice, money` → ใช้ `much/little/amount`
+- ถ้าหน้าช่องว่างมี `a` + singular noun → นึกถึง countable
+
+โจทย์บอก tense อะไร: ปกติ quantifier ไม่บอก tense แต่จะบอกรูปกริยา (is/are/has) — ดู `is/are/has` เพื่อผันกริยาให้ถูกต้อง
+
+---
+
+### โครงสร้างประโยคถูกกระทำ (Passive Voice)
+
+อธิบายสั้น ๆ:
+- Passive = ประธานถูกกระทำ โครงสร้างหลักคือ `be + V.3` (เช่น `is eaten`, `was introduced`, `has been done`)
+
+ตัวอย่าง:
+- Active: `They built the bridge in 1990.`
+- Passive: `The bridge was built in 1990.`
+
+จุดสังเกตเมื่อเจอช่องว่าง:
+- ถ้าประธานเป็นสิ่งของหรือผลลัพธ์ (ไม่ใช่ผู้กระทำ) ให้พิจารณา passive
+- มองหาตัวช่วยที่บอก tense: `was/were` (Past Simple passive), `is/are` (Present Simple passive), `has/have been` (Present Perfect passive), `will be` (Future passive)
+- ถ้าช่องว่างมี `by + ...` เช่น `by the committee` มักเป็น passive
+
+โจทย์บอก tense อะไร:
+- ดูรูปของ `be` ที่มาอยู่หน้า/หลังช่องว่าง เช่น `is/are` → Present Simple passive; `was/were` → Past Simple passive; `has/have been` → Present Perfect passive
+
+---
+
+### โครงสร้างประโยค (Sentence Structure) และ Parts of Speech (Noun, Verb, Adjective, Adverb)
+
+อธิบายสั้น ๆ:
+- แยกตำแหน่งของคำในประโยค: Subject + Verb + (Object / Complement / Adverbial)
+- Parts of Speech พื้นฐาน: Noun, Verb, Adjective, Adverb, Pronoun, Preposition, Conjunction, Determiner
+
+ตัวอย่างการตรวจช่องว่าง:
+- ถ้าช่องว่างอยู่หลัง `a/an/the/my` → ต้องเป็น `Noun` (หรือ noun phrase)
+- ถ้าช่องว่างอยู่หลัง `to` ในโครงสร้าง `to ___` แต่ไม่ใช่ preposition → มักเป็น `V.1` (infinitive)
+- ถ้าช่องว่างอยู่หลังกริยาแท้ (main verb) เช่น `play ___` → มักเป็น `object` (noun/gerund)
+- ถ้าช่องว่างอยู่หลังกริยาแล้วมี `-ly` เป็นตัวเลือก ให้พิจารณา `Adverb` (ขยายกริยา)
+
+ตัวอย่าง:
+- `She is a very ___ teacher.` → `good` (Adjective)
+- `He drives very ___ .` → `carefully` (Adverb)
+
+จุดสังเกตเมื่อเจอช่องว่าง:
+- ดูคำก่อนและคำหลังช่องว่าง: article/possessive → noun; `be`/linking verb → adjective; main verb → adverb หรือ noun ขึ้นกับความหมาย
+
+โจทย์บอก tense อะไร:
+- ถ้าช่องว่างเกี่ยวกับ `Verb` ดู auxiliary/indicator เช่น `is/am/are`, `was/were`, `has/have` เพื่อเลือกรูป `V.ing`, `V.2`, หรือ `V.3`
+
+---
+
+### Subject-Verb Agreement (ความสอดคล้องประธาน-กริยา)
+
+อธิบายสั้น ๆ:
+- หาประธานแท้ (true subject) ของประโยค และผันกริยาให้ตรงกับประธาน (เอกพจน์ → กริยาเอกพจน์, พหูพจน์ → กริยาพหูพจน์)
+- ข้ามวลีแทรก เช่น `along with`, `as well as`, `including` ซึ่งไม่เปลี่ยนความเป็นเอก/พหูของประธาน
+
+ตัวอย่าง:
+- `The list of items is on the table.` → ประธานแท้ = `The list` (singular) → `is`
+- `My friends and I are going.` → `My friends and I` → plural → `are`
+
+จุดสังเกตเมื่อเจอช่องว่าง:
+- ถ้ามี `each`, `every`, `everyone`, `someone` เป็นต้น ให้ใช้กริยาเอกพจน์
+- ถ้าประธานเป็น `A and B` → มักใช้พหูพจน์
+- ตัดส่วนขยายที่แทรกออกชั่วคราว แล้วเช็กประธานหลัก
+
+โจทย์บอก tense อะไร:
+- Subject-verb agreement ทำงานร่วมกับ tense — ดู auxiliary เช่น `does/do` (present), `did` (past) เพื่อเลือกรูปกริยา
+
+---
+
+### Conjunctions & Connectors (รวม `such as` และการยกตัวอย่าง)
+
+อธิบายสั้น ๆ:
+- Conjunctions เชื่อมคำ/วลี/ประโยค เช่น `and`, `but`, `because`, `although`, `while`, `if`, `unless`
+- Connectors สำหรับยกตัวอย่าง: `such as`, `for example`, `for instance` — ใช้ตามด้วย noun/phrase เพื่อยกตัวอย่าง
+
+ตัวอย่าง:
+- `Fruits such as apples and oranges are rich in vitamins.`
+- `She studied hard, so she passed the exam.`
+
+จุดสังเกตเมื่อเจอช่องว่าง:
+- ดูความสัมพันธ์ระหว่างสองส่วน: ขัดแย้ง → `but/although`; ผลลัพธ์ → `so/therefore`; ยกตัวอย่าง → `such as` ตามด้วย noun phrase
+- ถ้าหลังช่องว่างเป็นประโยค (มี subject + verb) ให้ตัด preposition-based connectors ออก
+
+โจทย์บอก tense อะไร:
+- Connector เองไม่บอก tense แต่ประโยคหลัง/หน้าช่องว่างจะมี verb forms ที่บอก tense (เช่น `had`, `was`, `will`) — ใช้เป็นเบาะแส
+
+---
+
+### การสร้างประโยคคำถามใน Present Simple และการใช้ Auxiliary Verbs (`do` / `does`)
+
+อธิบายสั้น ๆ:
+- ใน Present Simple, ประโยคคำถามใช้ `do`/`does` + subject + base verb
+- `do` ใช้กับ I/You/We/They, `does` ใช้กับ He/She/It
+
+ตัวอย่าง:
+- Statement: `She likes coffee.`
+- Question: `Does she like coffee?` (note: `likes` → `like` whenใช้ `does`)
+
+จุดสังเกตเมื่อเจอช่องว่าง:
+- ถ้าช่องว่างอยู่ตรงหน้าประธานในประโยคคำถามและมีตัวเลือกเป็น `do/does/did` ให้พิจารณา `Present Simple` หรือ `Past Simple` ขึ้นกับ context
+- ถ้าประธานเป็น `he/she/it` ให้เลือก `does` ใน present; ถ้า plural ให้เลือก `do`
+
+โจทย์บอก tense อะไร:
+- ถ้าช่องว่างต้องการ `do/does` → Present Simple question
+- ถ้าช่องว่างเป็น `did` → Past Simple question
+
+---
+
+### Noun Clauses และ Reported Speech (การเล่า/การบอกกล่าว เช่น การใช้ `that`)
+
+อธิบายสั้น ๆ:
+- Noun clause = ประโยคหนึ่งที่ทำหน้าที่เป็นคำนาม เช่น `that`-clause (`I know that she is honest.`)
+- Reported speech = การเล่าข่าว/คำพูด เช่น `He said (that) he was tired.` (อาจตัด `that` ได้ในหลายกรณี)
+
+ตัวอย่าง:
+- Direct: `She said, "I am busy."`
+- Reported: `She said (that) she was busy.`
+
+จุดสังเกตเมื่อเจอช่องว่าง:
+- ถ้าช่องว่างอยู่หลัง `say/tell/think/believe` และตัวเลือกมี `that` ให้พิจารณาว่าเป็น noun clause
+- ใน reported speech ระวังการเปลี่ยน tense (backshift): `present` → `past` (e.g., `is` → `was`) เว้นแต่ว่าข้อความยังคงเป็นจริงหรือมีบริบทที่ทำให้ไม่ต้องเปลี่ยน
+
+โจทย์บอก tense อะไร:
+- ดูว่าเป็น reported speech หรือ direct speech: ถ้าเป็น reported ให้คาดการเปลี่ยน tense แบบ backshift (Present→Past, Present Perfect→Past Perfect)
+
+---
+
+### Gerunds (V.ing) และ Infinitives (to V.1) — กริยาที่ตามด้วย V.ing เสมอ
+
+อธิบายสั้น ๆ:
+- บางกริยาตามด้วย `V.ing` เสมอ (enjoy, avoid, finish, keep, mind, suggest, consider ฯลฯ)
+- บางกริยาตามด้วย `to + V.1` (want, hope, decide, plan, promise, ask, tell+object to)
+- บางกริยารับได้ทั้ง gerund และ infinitive แต่ความหมายเปลี่ยน (like, stop, remember, forget)
+
+ตัวอย่าง:
+- `She enjoys reading.` (enjoy + V.ing)
+- `He decided to leave.` (decide + to V.1)
+- `I stopped smoking.` vs `I stopped to smoke.` (ความหมายต่างกัน)
+
+จุดสังเกตเมื่อเจอช่องว่าง:
+- มองที่คำก่อนช่องว่าง: ถ้าเป็น `enjoy/avoid/keep/mind` ให้เลือก `V.ing`
+- ถ้าหน้าเป็น `to` และเป็นส่วนของ infinitive ให้เลือก `V.1`
+- หลัง preposition ต้องเป็น `V.ing` (e.g., `interested in ___` → `interested in learning`)
+
+โจทย์บอก tense อะไร:
+- Gerund/Infinitive ไม่ได้บอก tenseโดยตรง แต่ถ้าประโยคต้องการแสดงเวลา ให้ดู main verb/auxiliary ที่มากำหนด tense
+
+---
+
+### สรุปสั้น ๆ (Cheat-sheet)
+- ถ้าหลัง `a/an/the/my` → noun
+- ถ้าหลัง `be` (is/are/was) → adjective หรือ passive
+- ถ้ามี `do/does/did` → เป็นคำถามหรือเน้น present/past simple
+- ถ้ามี `to be` + V.3 หรือ `has been` → passive / perfect
+- ถ้าช่องว่างอยู่หลัง `enjoy/avoid/keep/mind` → gerund (V.ing)
+- ถ้าช่องว่างอยู่หลัง `want/decide/hope/plan` → infinitive (to V.1)
+
+---
+
+การแก้ไขแล้ว: เพิ่มเนื้อหาและตัวอย่างครบตามคำขอ
+
+
