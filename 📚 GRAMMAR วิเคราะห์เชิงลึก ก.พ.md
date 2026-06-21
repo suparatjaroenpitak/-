@@ -19,6 +19,172 @@
 
 ---
 
+## วิธีดูสิ่งที่อยู่นอกช่องว่างให้รู้ว่าโจทย์เป็นหัวข้ออะไร
+
+เวลาทำ Grammar & Structure ให้คิดว่า **ช่องว่างไม่ใช่จุดเริ่มต้น** แต่สิ่งที่อยู่รอบช่องว่างต่างหากคือเบาะแสหลัก เพราะคำหน้า blank, คำหลัง blank และ keyword ในประโยคจะบอกว่าโจทย์กำลังวัดกฎอะไร
+
+### อ่านรอบช่องว่างเป็น 4 วง
+
+| วงที่ดู | ต้องถามตัวเองว่า | ใช้บอกอะไร |
+|---|---|---|
+| 1. คำหน้า blank | ก่อนช่องว่างเป็น noun, verb, modal, preposition, be หรือ adjective | บอกชนิดคำที่ต้องเติม |
+| 2. คำหลัง blank | หลังช่องว่างเป็น noun, verb, V.ing, V.3, clause หรือ phrase | บอกโครงสร้างที่ต้องตามมา |
+| 3. Keyword รอบประโยค | มีคำอย่าง `since`, `ago`, `by`, `than`, `if`, `although` หรือไม่ | บอกหัวข้อ grammar |
+| 4. ความหมายรวม | ประธานทำเองหรือถูกกระทำ, สองประโยคสัมพันธ์กันแบบไหน | ใช้ยืนยันคำตอบหลังตัด choice |
+
+**สูตรคิดสั้น:**  
+`คำหน้า blank` บอกหน้าที่ของคำ  
+`คำหลัง blank` บอก pattern  
+`keyword` บอกหัวข้อ  
+`ความหมาย` ใช้เช็กคำตอบ
+
+### ตารางจับหัวข้อจากสิ่งรอบช่องว่าง
+
+| สิ่งที่อยู่นอกช่องว่าง | ตัวอย่างรูปประโยค | หัวข้อที่มักออก | วิธีคิด |
+|---|---|---|---|
+| หน้า blank เป็นคำนาม และหลัง blank เป็น verb | `The woman ___ lives here...` | Relative Pronoun | noun หน้า blank ถูกขยาย และหลัง blank ขาดประธาน |
+| หน้า blank เป็นคำนามสถานที่ และหลัง blank มี subject + verb | `This is the school ___ I studied.` | Relative Pronoun | สถานที่ + ประโยคครบ มักใช้ `where` |
+| หลัง blank เป็น noun ทันที | `The student ___ bag was lost...` | Possessive / Relative `whose` | ช่องว่างต้องเป็นคำแสดงเจ้าของ |
+| `a/an/the + ___ + noun` | `a ___ decision` | Word Form: Adjective | หน้า noun ต้องใช้ adjective ขยาย |
+| `verb + ___` | `She answered ___` | Word Form: Adverb | หลัง verb ทั่วไปมักใช้ adverb ขยายการกระทำ |
+| `be + ___` | `He is ___` | Adjective / Passive / Continuous | ต้องดูคำหลังต่อ ถ้าเป็น V.3 = passive, V.ing = continuous, adjective = บอกสภาพ |
+| `modal + ___` | `You should ___` | Verb Form | หลัง modal ใช้ `V.1` ไม่เติม s ไม่ผัน tense |
+| `preposition + ___` | `without ___`, `interested in ___` | Gerund / Noun | ถ้าเป็นกริยาให้ใช้ `V.ing` |
+| มีคำเวลา `yesterday`, `last`, `ago` | `He ___ yesterday.` | Tense: Past Simple | keyword อดีตชัด ใช้ `V.2` |
+| มี `since`, `for`, `already`, `yet` | `She has ___ since 2020.` | Tense: Present Perfect | มองหา `has/have + V.3` |
+| มี `by + คน/หน่วยงาน` | `The report ___ by the manager.` | Passive Voice | ประธานถูกกระทำ ต้องใช้ `be + V.3` |
+| ประธานยาว มีคำคั่น `with`, `along with` | `The manager, along with staff, ___` | Subject-Verb Agreement | หา subject ตัวจริงก่อน |
+| มี `than` | `This one is ___ than that one.` | Comparison | ต้องใช้ขั้นกว่า |
+| มี `as ___ as` | `as ___ as possible` | Comparison | ใช้ adjective/adverb รูปปกติ |
+| มี `if`, `unless` | `If I were you, I ___` | If-Clause | ดู tense ใน if-clause เพื่อเลือก main clause |
+| มี `wish` | `I wish I ___ taller.` | Wish | มักใช้รูปถอย tense เช่น Past Simple หรือ Past Perfect |
+| มี `because`, `although`, `so`, `however` | `___ it rained, we went out.` | Conjunctions | ดูความสัมพันธ์เหตุผล/ขัดแย้ง/ผลลัพธ์ |
+| หลัง choice มี noun นับได้/นับไม่ได้ | `___ water`, `___ books` | Quantifiers | นับไม่ได้ใช้ `much/little`, นับได้พหูพจน์ใช้ `many/few` |
+
+### วิธีแยกหัวข้อจาก `be + ___`
+
+โครง `be + ___` เจอบ่อยและหลอกได้หลายหัวข้อ ต้องดูคำหลังช่องว่างต่อ
+
+| รูปหลัง `be` | หัวข้อ | ตัวอย่าง | วิธีตอบ |
+|---|---|---|---|
+| `be + adjective` | Word Form / Adjective | `She is careful.` | บอกสภาพของประธาน |
+| `be + V.ing` | Continuous Tense | `She is working.` | กำลังกระทำ |
+| `be + V.3` | Passive Voice | `The room is cleaned.` | ถูกกระทำ |
+| `be + noun` | Complement | `He is a teacher.` | บอกว่าเป็นอะไร |
+
+**จุดสังเกต:**  
+ถ้าประธานเป็นสิ่งของและมี `by + ผู้กระทำ` ตามหลัง ให้คิด Passive ก่อน เช่น `The building was designed by an architect.`
+
+### ตัวอย่างถอดรหัสจากสิ่งรอบช่องว่าง
+
+#### ตัวอย่างที่ 1
+
+> The documents ___ yesterday.
+
+สิ่งรอบช่องว่าง:
+- `The documents` เป็นสิ่งของ/เอกสาร มีโอกาสถูกกระทำ
+- `yesterday` บอกอดีต
+
+หัวข้อที่เจอ:
+- Passive Voice + Past Simple
+
+คำที่คาดว่าจะตอบ:
+- `were + V.3` เช่น `were approved`, `were sent`
+
+#### ตัวอย่างที่ 2
+
+> She has worked here ___ five years.
+
+สิ่งรอบช่องว่าง:
+- หน้า blank คือ Present Perfect: `has worked`
+- หลัง blank คือระยะเวลา `five years`
+
+หัวข้อที่เจอ:
+- Preposition of time
+
+คำตอบที่คาด:
+- `for` เพราะใช้กับระยะเวลา
+
+ถ้าเป็นจุดเริ่มต้น เช่น `2021` จะใช้ `since`
+
+#### ตัวอย่างที่ 3
+
+> The man ___ I met yesterday is my uncle.
+
+สิ่งรอบช่องว่าง:
+- หน้า blank คือคน: `The man`
+- หลัง blank คือ `I met yesterday` ซึ่งมี subject `I` และ verb `met` แล้ว
+- ช่องว่างจึงเป็นกรรมของ `met`
+
+หัวข้อที่เจอ:
+- Relative Pronoun
+
+คำตอบที่คาด:
+- `whom` หรือในบางข้ออาจใช้ `that`
+
+#### ตัวอย่างที่ 4
+
+> This question is ___ than the previous one.
+
+สิ่งรอบช่องว่าง:
+- หลัง blank มี `than`
+
+หัวข้อที่เจอ:
+- Comparison
+
+คำตอบที่คาด:
+- adjective/adverb ขั้นกว่า เช่น `easier`, `more difficult`
+
+#### ตัวอย่างที่ 5
+
+> We went out ___ it was raining.
+
+สิ่งรอบช่องว่าง:
+- ประโยคหน้า: `We went out`
+- ประโยคหลัง: `it was raining`
+- ความหมายสองส่วนขัดแย้งกัน เพราะฝนตกแต่ยังออกไป
+
+หัวข้อที่เจอ:
+- Conjunctions / Connectors
+
+คำตอบที่คาด:
+- `although` ถ้าช่องว่างอยู่หน้าประโยคย่อย
+- `but` ถ้าอยู่กลางประโยคแบบเชื่อมสอง clause
+
+### Decision Tree แบบเร็ว
+
+| ถามตัวเอง | ถ้าใช่ ให้คิดหัวข้อ |
+|---|---|
+| ตัวเลือกเป็นคำรากเดียวกันหลายรูปไหม | Word Form / Part of Speech |
+| มี keyword เวลาไหม | Tenses |
+| ประธานถูกกระทำหรือมี `by` ไหม | Passive Voice |
+| ต้องเลือกกริยาให้ตรงกับประธานไหม | Subject-Verb Agreement |
+| หน้า blank เป็น noun ที่ถูกขยายไหม | Relative Pronoun |
+| หน้า blank เป็น modal หรือ preposition ไหม | Verb Form / Gerund / Infinitive |
+| มี `than`, `as...as`, `the most` ไหม | Comparison |
+| มี `if`, `unless`, `wish` ไหม | If-Clause / Wish |
+| มีคำเชื่อมความหมายไหม | Conjunctions |
+| มี noun นับได้/นับไม่ได้หลังช่องว่างไหม | Quantifiers |
+
+### สูตรจำ 5 วินาที
+
+| เห็นสิ่งนี้นอกช่องว่าง | คิดทันที |
+|---|---|
+| `since + จุดเวลา` | Present Perfect หรือ preposition `since` |
+| `for + ระยะเวลา` | Present Perfect หรือ preposition `for` |
+| `ago / last / yesterday` | Past Simple |
+| `by + ผู้กระทำ` | Passive |
+| `than` | Comparative |
+| `as ___ as` | Positive degree |
+| `modal + ___` | `V.1` |
+| `preposition + verb` | `V.ing` |
+| `___ + noun` | adjective หรือ possessive |
+| `verb + ___` | adverb |
+| `If + had V.3` | `would have + V.3` |
+| `wish + ปัจจุบันที่เป็นไปไม่ได้` | Past Simple |
+
+---
+
 ## ตารางถอดรหัสหัวข้อจากตัวเลือก
 
 | ถ้าตัวเลือกหน้าตาแบบนี้ | Topic Identification: กำลังวัดเรื่อง | จุดจับเร็ว |
@@ -640,4 +806,3 @@ D. ...
 | หลัง modal/preposition/verb pattern ใช้รูปกริยาถูกไหม | |
 | ตัด choice ผิดโครงสร้างก่อนแปลหรือยัง | |
 | ความหมายของคำตอบเข้าบริบทหรือยัง | |
-
